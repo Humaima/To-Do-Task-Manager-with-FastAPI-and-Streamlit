@@ -4,6 +4,9 @@
 
 This project demonstrates how to build a **CRUD (Create, Read, Update, Delete)** application using modern Python frameworks. The backend is powered by **FastAPI**, while the frontend is built with **Streamlit** for an interactive user experience. The application uses **SQLite** for database storage and **SQLAlchemy** for database management.
 ![image](https://github.com/user-attachments/assets/89525e7d-971b-445f-a465-8df6b22d2273)
+![image](https://github.com/user-attachments/assets/5423f55c-4b9a-412d-abd1-1a6cc401feae)
+![image](https://github.com/user-attachments/assets/0e676d62-d291-4a2e-90ec-4ad673f7b2b4)
+![image](https://github.com/user-attachments/assets/30445292-4fe1-4add-bea1-5efcd82976a7)
 
 ## Features
 
